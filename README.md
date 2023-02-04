@@ -10,3 +10,5 @@ for preservation and reuse. These include:
 • Data reduction
 
 I completed these assignments and they helped me grasp the essentials of Python. To access solutions, please reach out to me!
+
+Go to _pyprojects branch to see the various Python assignments with diverse tasks!
