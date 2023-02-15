@@ -12,3 +12,8 @@ for preservation and reuse. These include:
 I completed these assignments and they helped me grasp the essentials of Python. To access solutions, please reach out to me!
 
 Go to _pyprojects branch to see the various Python assignments with diverse tasks!
+
+Feb 2023: 
+I am exploring the following handbook on Python. Sources include NumPy, Pandas, Matplotlib, Machine Learning:
+
+https://jakevdp.github.io/PythonDataScienceHandbook/
